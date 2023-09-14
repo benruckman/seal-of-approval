@@ -18,7 +18,7 @@ def get_seal():
     if not PEXELS_API_KEY:
         raise ValueError("No PEXELS_API_KEY provided")
     headers = {"Authorization": PEXELS_API_KEY}
-    params = {"query": "seal", "per_page": 80}
+    params = {"query": "seal of approval", "per_page": 80}
     response = requests.get(PEXELS_BASE_URL, headers=headers, params=params)
     response.raise_for_status()
     data = response.json()
@@ -56,7 +56,7 @@ def main():
     seal, author = get_seal()
     copy(seal)
     print("Copied seal to clipboard!")
-    print(f"Seal by {author}")
+    print(f"Seal of approval by {author}")
 
 
 if __name__ == "__main__":
