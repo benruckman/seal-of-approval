@@ -1,5 +1,5 @@
 Get a seal of approval! Photos provided by Pexels.
 
-![seal](https://images.pexels.com/photos/185032/pexels-photo-185032.jpeg?auto=compress&cs=tinysrgb&h=130)
+![seal](https://images.pexels.com/photos/9700846/pexels-photo-9700846.jpeg?auto=compress&cs=tinysrgb&h=350)
 
-Seal by Barthy Bonhomme
+Seal of approval by Andrey Rasp
